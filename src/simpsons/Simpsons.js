@@ -5,5 +5,4 @@ export default function Simpson({name, surname, info, age, photo}) {
             <p>{info}</p>
             <img src={photo} alt={name}/>
         </div>
-    );
-}
+    )}
